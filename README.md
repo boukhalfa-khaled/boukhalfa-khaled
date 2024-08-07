@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boukhalfa Khaled Islam
-==============================================================================================================================================
+Hi 👋 My name is Boukhalfa Khaled Islam
+=======================================
 
 *   🌍  I'm based in Djelfa, Algeria
 *   ✉️  You can contact me at [boukhalfa.khaled.islam@gmail.com](mailto:boukhalfa.khaled.islam@gmail.com)
